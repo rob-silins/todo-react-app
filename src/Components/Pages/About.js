@@ -19,6 +19,7 @@ import React from 'react'
                 button to get rid of it completely.
             </p>
             <p>You don't need to worry about adding any blank tasks.</p>
+            <p>To try out the app, just press the Home link button.</p>
             </div>
         </React.Fragment>
     )
