@@ -20,6 +20,7 @@ import React from 'react'
             </p>
             <p>You don't need to worry about adding any blank tasks.</p>
             <p>To try out the app, just press the Home link button.</p>
+            <p>This is hosted on Netlify.</p>
             </div>
         </React.Fragment>
     )
