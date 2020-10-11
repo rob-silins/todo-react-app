@@ -12,11 +12,9 @@ import React from 'react'
                 </a>
             </p>
             <p>You can add new tasks and by checking the box next to it, it will cross off the task.</p>
-            <p>If you don't need the task anymore, you can simply use the 
-                <button 
-                className='aboutBtnStyle'>REMOVE
-                </button>  
-                button to get rid of it completely.
+            <p>If you don't need the task anymore, you can simply 
+                use the <button className='aboutBtnStyle'>REMOVE
+                </button> button to get rid of it completely.
             </p>
             <p>You don't need to worry about adding any blank tasks.</p>
             <p>To try out the app, just press the Home link button.</p>
