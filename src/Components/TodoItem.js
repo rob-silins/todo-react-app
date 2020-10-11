@@ -4,6 +4,7 @@ import PropTypes from 'prop-types';
 export class TodoItem extends Component {
     getStyle = () => {
          return {
+            fontSize:'18px',
             background: '#f4f4f4',
             padding: '10px',
             borderBottom: '1px #ccc dotted',

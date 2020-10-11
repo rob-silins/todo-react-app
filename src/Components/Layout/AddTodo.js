@@ -20,7 +20,7 @@ onChange = (e) => this.setState({[e.target.name]: e.target.value});
                 <input 
                 type="text" 
                 name="title" 
-                style = {{flex: '10', padding: '15px'}}
+                style = {{fontSize:'20px', flex: '10', padding: '10px'}}
                 placeholder="Type in a new task"
                 value={this.state.title}
                 onChange={this.onChange}
