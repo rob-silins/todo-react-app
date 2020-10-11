@@ -1,1 +1,1 @@
-The project has been deplyed https://brave-leavitt-d32886.netlify.app/
+The project has been deplyed <a href='https://brave-leavitt-d32886.netlify.app/' target='blank'> here </a>.
